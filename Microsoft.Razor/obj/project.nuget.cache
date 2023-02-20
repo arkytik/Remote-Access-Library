@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jf/Ep/3xzXCN1jiz5gJyZJo1SPN45RNRx0IxUfnaQ8jPqWH6Ge0kpdHl167a9F6XBXFPn4O1aohaT4sh4e+1MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bidlo\\source\\repos\\Microsoft.Razor\\Microsoft.Razor\\Microsoft.Razor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bidlo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bidlo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bidlo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.27\\microsoft.windows.sdk.net.ref.10.0.22621.27.nupkg.sha512"
+  ],
+  "logs": []
+}

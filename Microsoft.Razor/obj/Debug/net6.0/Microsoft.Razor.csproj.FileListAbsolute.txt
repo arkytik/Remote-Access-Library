@@ -1,0 +1,12 @@
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\Microsoft.Razor.csproj.AssemblyReference.cache
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\Microsoft.Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\Microsoft.Razor.AssemblyInfoInputs.cache
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\Microsoft.Razor.AssemblyInfo.cs
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\Microsoft.Razor.csproj.CoreCompileInputs.cache
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\bin\Debug\net6.0\Microsoft.Razor.deps.json
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\bin\Debug\net6.0\Microsoft.Razor.dll
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\bin\Debug\net6.0\Microsoft.Razor.pdb
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\Microsoft.Razor.dll
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\refint\Microsoft.Razor.dll
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\Microsoft.Razor.pdb
+C:\Users\Bidlo\source\repos\Microsoft.Razor\Microsoft.Razor\obj\Debug\net6.0\ref\Microsoft.Razor.dll
